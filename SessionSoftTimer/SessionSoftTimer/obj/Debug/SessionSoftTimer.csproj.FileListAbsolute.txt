@@ -1,0 +1,28 @@
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe.config
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.pdb
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Form1.resources
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Properties.Resources.resources
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csproj.GenerateResource.Cache
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csproj.CoreCompileInputs.cache
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.pdb
+C:\Users\mlesniak\source\repos\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csprojResolveAssemblyReference.cache
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe.config
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.pdb
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csprojAssemblyReference.cache
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Form1.resources
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Properties.Resources.resources
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csproj.GenerateResource.cache
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\Desktop\repos_old\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.pdb
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe.config
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\bin\Debug\SessionSoftTimer.pdb
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csprojAssemblyReference.cache
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Form1.resources
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.Properties.Resources.resources
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.csproj.GenerateResource.cache
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.exe
+C:\Users\mlesniak\Desktop\repos_old - Copy\SessionSoftTimer\SessionSoftTimer\obj\Debug\SessionSoftTimer.pdb
