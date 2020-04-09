@@ -1,7 +1,7 @@
 Please read and make the necessary changes before hosting.
 
 **General**<br>
-Please add a DNS alias named SSServer where SSServer is the machine where the server and database are hosted.  SS allows you to toggle between printers (e.g. in case your public printer goes down).  Please modify the printer code (SessionSoftTimer/Printers.cs *and* the printer database table - printer names are the table values) to reflect your local environment.  Full MSSQL database schema to be posted later.   
+Please add a DNS alias named SSServer where SSServer is the machine where the server and database are hosted.  SS allows you to toggle between printers (e.g. in case your public printer goes down).  Please modify the printer code (SessionSoftTimer/Printers.cs *and* the printer database table - printer names are the table values) to reflect your local environment.  Full MSSQL database schema to be posted later.  The SS timer uses an optional sentinel program to prevent users from killing the process.  If you not blocking taskmanager, it would be a good idea to use this.      
 
 **SessionSoftTimer**<br>
 This is the client application to be hosted on the local, public machines.  Session.cs and LogStats.cs need the site specific connection string.
