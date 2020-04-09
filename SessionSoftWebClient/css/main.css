@@ -1,0 +1,79 @@
+﻿#main {
+    max-width: 7000px;
+    font-family: arial;
+}
+
+#main-container {
+    width: 100%;
+    margin-top: 150px;
+}
+
+h1 {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+#icon-container {
+    width: 1200px;
+    margin: 25px auto;
+}
+
+.login-container {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+
+.icon {
+    padding: 20px;
+    width: 24%;
+    cursor: pointer;
+    float: left;
+    border: 1px solid #000000;
+    height: 370px;
+    margin-left: 35px;
+}
+
+    .icon img {
+        width: 100%;
+    }
+
+    .icon p {
+        width: 100%;
+        margin: 30px auto;
+        text-align: center;
+    }
+
+input[type="text"], input[type="password"], select {
+    width: 400px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    height: 50px;
+    width: 90px;
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+}
+
+.main-menu {
+    margin-left: 30px;
+    height: 50px;
+    width: 90px;
+    border-radius: 15px;
+    background-color: orange;
+    color: white;
+}
+
+#tag-info {
+
+    position:absolute;
+    bottom:0;
+    left:0;
+    font-size:5em;
+}
