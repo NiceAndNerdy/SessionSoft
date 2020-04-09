@@ -1,0 +1,105 @@
+﻿body {
+    max-width: 5000px;
+    background-color: #2C3539;
+    color: #FFFFFF;
+    font-family: tahoma;
+}
+
+
+
+#main-container {
+    width: 70%;
+    margin: 25px auto;
+}
+
+#region-name {
+    text-align: center;
+    width: 90%;
+}
+
+.client {
+    display: table;
+    margin: 0;
+    padding: 0;
+    
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    border-radius: 7px;
+    margin-top: 30px;
+    color: #FFFFFF;
+    border: 1px solid #408080;
+    background-color: transparent;
+}
+
+    .client li {
+        display: table-cell;
+        font-size: 1.2em;
+        margin-left: 50px;
+        width: 70px;
+        text-align: center;
+        list-style-type: none;
+        vertical-align:middle;
+    }
+
+    .client li:first-child {
+        width:75px;
+    }
+
+
+
+        .client li:last-child {
+            width: 150px;
+        }
+
+
+
+    #header {
+        margin:0;
+        border:none;
+        background-color: #408080;
+        color: #FFFFFF;
+    }
+
+
+
+.client li:last-child img {
+    margin-right: 15px;
+    width: 35px;
+    cursor:pointer;
+}
+
+.renewal-count, .logged {
+    cursor:pointer;
+}
+
+.unlocked {
+    background-color: #3D9999;
+    border:none;
+}
+
+
+.renewed {
+    background-color: #CC149B;
+    border:none;
+}
+
+.restart, .terminate, .shutdown, .disabled {
+    background-color: #FF406C;
+    border:none;
+}
+
+.pending {
+    background-color: #667F7F;
+}
+
+#popup-close {
+    width: 125px;
+    height: 55px;
+    font-size: 0.7em;
+    border-radius: 7px;
+    margin-top: 125px;
+    background-color: #667f7f;
+    color: #FFFFFF;
+    cursor: pointer;
+}

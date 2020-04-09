@@ -1,0 +1,205 @@
+﻿html, body {
+    max-width: 5000px;
+    background-color: #2C3539;
+    color: #FFFFFF;
+    font-family: tahoma;
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+.menu-item a {
+    text-decoration:none;
+    color:#FFFFFF;
+}
+
+.menu-item a:hover {
+    color:yellow;
+}
+
+#main-container {
+    height:1000px;
+}
+
+#left-menu {
+    padding-top:150px;
+    float:left;
+    width: 22%;
+    border-right: 3px solid #408080;
+    height: 100%;
+    text-align:center;
+    font-size:1.4em;
+}
+
+#left-menu ul {
+    list-style-type:none;
+}
+    #left-menu ul li {
+        cursor:pointer;
+        margin-bottom:10px;
+    }
+
+    #left-menu ul li:hover {
+        color:yellow;
+    }
+
+#content {
+    padding-top: 80px;
+    float: left;
+    height: 100%;
+    margin-left: 100px;
+}
+
+.content {
+    display:none;
+}
+
+.select-container {
+    float:left;
+    margin-right:30px;
+}
+
+    .select-container select, .select-container input {
+        width: 200px;
+        height: 55px;
+        font-size: 1.5em;
+        border-radius:7px;
+    }
+
+#retrieve-client {
+    background-color: #408080;
+    color:#FFFFFF;
+    cursor:pointer;
+}
+
+#client-fields input, #client-fields select {
+    width: 250px;
+    height: 55px;
+    font-size: 1.5em;
+    border-radius: 7px;
+    margin-top:30px;
+}
+
+#client-fields select {
+    margin-top:10px;
+}
+
+#client-fields select:first-child {
+    margin-top: 60px;
+}
+
+#client-registered {
+    margin-top:30px !important;
+}
+
+#client-fields {
+    display:none;
+} 
+
+#password {
+    margin-bottom: 60px;
+}
+
+#message {
+    width:500px;
+    height:300px;
+    margin-top:30px;
+    font-size:1.3em;
+    font-family:Tahoma;
+}
+
+
+.submit {
+    width: 125px;
+    height: 55px;
+    font-size: 1.5em;
+    border-radius: 7px;
+    margin-top: 30px;
+    background-color: #408080;
+    color: #FFFFFF;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.cancel {
+    width: 125px;
+    height: 55px;
+    font-size: 1.5em;
+    border-radius: 7px;
+    margin-top: 30px;
+    background-color: #667f7f;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#shutdown-container img {
+    margin-right:30px;
+    cursor:pointer;
+}
+
+#autorenew-table {
+    font-size: 1.4em;
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+#autorenew-table td {
+    padding:20px 70px;
+    border:1px solid #FFFFFF;
+}
+
+
+#popup-close, #yes-command {
+    width: 125px;
+    height: 55px;
+    font-size: 0.7em;
+    border-radius: 7px;
+    margin-top: 125px;
+    background-color: #667f7f;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#yes-command {
+    background-color: #408080;
+    margin-right:30px;
+}
+
+
+#popup-content {
+    font-size: 1.5em;
+    padding-top: 100px;
+    font-family:Tahoma;
+}
+
+.date-picker {
+    width:200px;
+    height:55px;
+    margin-right:20px;
+    font-size:1.4em;
+    font-family:Tahoma;
+}
+
+
+#stat-container input[name="limiters"] {
+    margin-top:30px;
+    margin-right:25px;
+}
+
+#stat-container label {
+    font:1.1em;
+}
+
+.printer {
+    text-decoration:none;
+}
+
+.printer:visited {
+    color:#FFFFFF;
+}
+
+.selected-printer {
+    border:3px solid yellow;
+}
+
+

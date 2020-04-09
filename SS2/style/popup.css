@@ -1,0 +1,106 @@
+#pop-up {
+    position: fixed;
+    top: 20%;
+    left: 26%;
+    text-align: center;
+    width: 48%;
+    font-family: Tahoma;
+    font-size: 2em;
+    color: #000000;
+    display: none;
+    z-index: 3;
+    border: 2px solid #000000;
+    background-color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.popup-content-class {
+    height: 400px;
+    padding: 20px 20px 40px 20px;
+    /* outline: 2px solid #FFFFFF; */
+}
+
+.dark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+
+/*  Begin loading screen */
+.loading {
+	-webkit-animation:spin 2s linear infinite;
+	-moz-animation:spin 2s linear infinite;
+	animation:spin 2s linear infinite;
+        margin-top:100px;
+}
+
+.popup-buttons {
+    font-family: Tahoma;
+    font-size: .7em;
+    padding-left: 5px;
+    color: #FFFFFF !important;
+    background-color: #364E4A;
+    width:150px;
+    height:70px;
+    border-radius:7px;
+    cursor:pointer;
+}
+
+settings-buttons {
+    margin-right:30px;
+}
+
+h2 {
+    font-family: Tahoma;
+    margin-bottom: 60px;
+}
+
+#time {
+    width: 300px;
+    height: 70px;
+    font-size: 1.4em;
+    margin-bottom: 60px;
+}
+
+#submit-renewal {
+    margin-right: 120px;
+    background-color: #3D9999;
+}
+
+#close-popup-button {
+    background-color: #FF406C;
+}
+
+.loading-content-class {
+    height: 400px;
+    padding: 20px 20px 40px 20px;
+}
+
+.light {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #FFFFFF;
+    opacity: 0.7;
+}
+
+@-moz-keyframes spin { 100% { 
+	-moz-transform:rotate(360deg); 
+	}
+}
+@-webkit-keyframes spin { 100% { 
+	-webkit-transform:rotate(360deg); 
+	}
+}
+@keyframes spin { 100% {
+	-webkit-transform:rotate(360deg);
+	transform:rotate(360deg);
+	}
+}

@@ -1,0 +1,50 @@
+﻿#menu {
+    position: fixed;
+    bottom: 10px;
+    right: 0;
+    border: 1px solid #408080;
+    background-color: #2C3539;
+    opacity: 1;
+}
+
+.arrow {
+    font-size: 2em;
+    padding: 40px 3px 40px 3px;
+    color: #FFFFFF;
+    height: 200px;
+    background-color: #408080;
+    cursor: pointer;
+}
+
+#regionmenu {
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    list-style-type: none;
+    margin-right: -685px;
+    padding-left: 0;
+}
+
+    #regionmenu li {
+        display: inline;
+        margin-right: 30px;
+    }
+
+.menu-item {
+    font-size: 2em;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+    .menu-item:hover {
+        color: yellow;
+    }
+
+#admin-menu {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+    #admin-menu:hover {
+        color: yellow;
+    }
