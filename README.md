@@ -10,5 +10,5 @@ This is the client application to be hosted on the local, public machines.  Sess
 The "splash" screen that the local applcation will use.  The web.config file requires the site specific connection string.  Controller.aspx.cs requires the SIP2 parameters.  That same file consumes a webservice avaiable via the Koha ILS that allows you to use a patron's username and pin to log into a public PC.  If you are not running Koha, disable that function.  Local logging in (i.e. from a randomly generated password) and logging into the public PC by library barcode is supported by all ILSs running a SIP2 server...so basically all of them.
 
 **SS2**<br>
-The administration server.  *VERY IMPORTANT* - Login.aspx.cs uses the database parameters to log in.  Never do this.  Likewise, the admin password for changing client settings is hardcoded into Controller.aspx.cs.  This is also a bad idea.
+The administration server.  *VERY IMPORTANT* - Login.aspx.cs uses the database parameters to log in.  Never do this.  Likewise, the admin password for changing client settings is hardcoded into Controller.aspx.cs.  This is also a bad idea.  Web.Config requires the local database connection string.
 
